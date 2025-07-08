@@ -54,7 +54,7 @@ const translations = {
     },
     aboutUs: {
       title: 'About Us',
-      description: 'We are **UI-Topic**, a team that simplifies inventory management for gastronomic businesses to maximize their profits.',
+      description: 'We are UI-Topic, a team that simplifies inventory management for gastronomic businesses to maximize their profits.',
       cards: {
         help: {
           title: 'How We Help',
@@ -259,7 +259,7 @@ const translations = {
     },
     aboutUs: {
       title: 'Nosotros',
-      description: 'Somos **UI-Topic**, un equipo que simplifica la gestión de inventario de negocios gastronómicos para maximizar sus ganancias.',
+      description: 'Somos UI-Topic, un equipo que simplifica la gestión de inventario de negocios gastronómicos para maximizar sus ganancias.',
       cards: {
         help: {
           title: 'Cómo ayudamos',
